@@ -1,5 +1,3 @@
-![Bingzhan Studios](https://github.com/bingzhanstudios/.github/blob/main/images/bingzhan-banner.png?raw=true)
-
 Estúdio brasileiro de Games e software.
 
 ## Participe
@@ -8,12 +6,6 @@ Estúdio brasileiro de Games e software.
 * [Acompanhe a Bingzhan no X](https://x.com/bingzhan_studio)
 * [Conheça a Safelayer](https://www.safelayer.com.br)
 * Encontrou um problema de segurança? Siga a nossa [política de segurança](https://github.com/bingzhanstudios/.github/blob/main/SECURITY.md) e não abra uma issue pública
-
-## Studios
-
-| Studio | Foco |
-| :--- | :--- |
-| **AUREA Studio** | Softwares que melhoram as edições e features da Bingzhan |
 
 ## Projetos
 
