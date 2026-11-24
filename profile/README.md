@@ -1,4 +1,4 @@
-Estúdio brasileiro de Games e software.
+Estúdio brasileiro criativo de design e softwares.
 
 ## Participe
 
