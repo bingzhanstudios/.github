@@ -12,9 +12,6 @@ Estúdio brasileiro de Games e software.
 | Projeto | O que é | Equipe |
 | :--- | :--- | :--- |
 | **[safelayer editor](https://github.com/myangdae/effects-dae-atualizacoes/releases/latest)** | Editor de imagens, vídeos e motion feito de efeitos: safelayer imagem, safelayer vídeo e safelayer motion. Gratuito, sem assinatura, sem marca d'água e sem coletar seus dados. Marca da Safelayer Inc. | Aurea Sub Studio |
-| **[Safelayer](https://www.safelayer.com.br)** | Site e presença digital da Safelayer Inc. | Bingzhan Studios |
-| **Kamo** | O Kamo, extensão de tradução simultaneas em estado de desenvolvimento. | Bingzhan Studios |
-| **HELLO DAE** | Tech & creative company parceira: produtos digitais, identidade visual e growth. | Bingzhan Studios |
 
 ----
 
